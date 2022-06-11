@@ -67,7 +67,6 @@ Application is set to start locally at port ```5001```
 {
   "ye_wisdom":"Believe in your flyness...conquer your shyness."
 }
-
 ```
 
 ## Built With
