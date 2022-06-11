@@ -37,7 +37,8 @@ $ pip install -r requirements.txt
 
 ### Run App
 
-Ensure that your have your Twitter API access token and pass it as an environment variable link to Twitter Dev [Dashboard](https://developer.twitter.com/).
+Ensure that your have your Twitter API access token and pass it as an environment variable.
+<br/>Link to Twitter Dev [Dashboard](https://developer.twitter.com/).
 
 Set your environment variables (OSX terminal):
 ```shell
