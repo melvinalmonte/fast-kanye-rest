@@ -37,11 +37,16 @@ $ pip install -r requirements.txt
 
 ### Run App
 
-Ensure that your have your Twitter API access token and pass it as an environment variable.
+Ensure that your have your Twitter API access token and pass it as an environment variable link to Twitter Dev [Dashboard](https://developer.twitter.com/).
 
-Set your environment variables:
+Set your environment variables (OSX terminal):
 ```shell
 export TWITTER_ACCESS_TOKEN='your_twitter_access_token'
+```
+
+Windows (Powershell):
+```shell
+$env:TWITTER_ACCESS_TOKEN='your_twitter_access_token'
 ```
 
 Run it!
@@ -68,3 +73,4 @@ Application is set to start locally at port ```5001```
 
 
 * [FastAPI](https://fastapi.tiangolo.com/)
+* [Tweepy](https://www.tweepy.org/)
